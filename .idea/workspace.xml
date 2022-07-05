@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="743770ef-7e22-4539-a828-db3fa2dc3480" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ADaFmdpbGC3WjnXXUoarL5GHh5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="F:/PI/PITRAMPO.py" />
+  </component>
+  <component name="RunManager" selected="Python.ChessMain">
+    <configuration name="ChessMain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Xadrezpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chess/ChessMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PITRAMPO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Xadrezpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="F:/PI" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:/PI/PITRAMPO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ChessMain" />
+        <item itemvalue="Python.PITRAMPO" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="743770ef-7e22-4539-a828-db3fa2dc3480" name="Default Changelist" comment="" />
+      <created>1654546508649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654546508649</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1657024146448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.191.2560.1040@0.0.1366.728" timestamp="1654637441122" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1657024146448" />
+    <state width="1345" height="110" key="GridCell.Tab.0.bottom" timestamp="1655834815515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.191.2560.1040@0.0.1366.728" timestamp="1655764118602" />
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.191.2560.1040@1366.191.2560.1040" timestamp="1655779760993" />
+    <state width="1345" height="110" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1655834815515" />
+    <state width="1345" height="110" key="GridCell.Tab.0.center" timestamp="1655834815514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.191.2560.1040@0.0.1366.728" timestamp="1655764118602" />
+    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728/1366.191.2560.1040@1366.191.2560.1040" timestamp="1655779760993" />
+    <state width="1345" height="110" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1655834815514" />
+    <state width="1345" height="110" key="GridCell.Tab.0.left" timestamp="1655834815514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.191.2560.1040@0.0.1366.728" timestamp="1655764118602" />
+    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728/1366.191.2560.1040@1366.191.2560.1040" timestamp="1655779760992" />
+    <state width="1345" height="110" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1655834815514" />
+    <state width="1345" height="110" key="GridCell.Tab.0.right" timestamp="1655834815515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.191.2560.1040@0.0.1366.728" timestamp="1655764118602" />
+    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728/1366.191.2560.1040@1366.191.2560.1040" timestamp="1655779760993" />
+    <state width="1345" height="110" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1655834815515" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1655779760996">
+      <screen x="1366" y="191" width="2560" height="1040" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.191.2560.1040@0.0.1366.728" timestamp="1655650647969" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.191.2560.1040@1366.191.2560.1040" timestamp="1655779760996" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1655779760994">
+      <screen x="1366" y="191" width="2560" height="1040" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.191.2560.1040@0.0.1366.728" timestamp="1655650647967" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.191.2560.1040@1366.191.2560.1040" timestamp="1655779760994" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1655779760994">
+      <screen x="1366" y="191" width="2560" height="1040" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.191.2560.1040@0.0.1366.728" timestamp="1655650647967" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.191.2560.1040@1366.191.2560.1040" timestamp="1655779760994" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1655779760995">
+      <screen x="1366" y="191" width="2560" height="1040" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.191.2560.1040@0.0.1366.728" timestamp="1655650647968" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.191.2560.1040@1366.191.2560.1040" timestamp="1655779760995" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1657023702463">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.191.2560.1040@0.0.1366.728" timestamp="1655649086992" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1657023702463" />
+    <state x="1705" y="314" width="1025" height="508" maximized="true" key="dock-window-1" timestamp="1654898555273">
+      <screen x="1366" y="191" width="2560" height="1040" />
+    </state>
+    <state x="1705" y="314" width="1025" height="508" maximized="true" key="dock-window-1/0.0.1366.728/1366.191.2560.1040@0.0.1366.728" timestamp="1654898555273" />
+  </component>
+</project>
